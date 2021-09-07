@@ -1,0 +1,51 @@
+{
+    "firstName": "Marcos",
+    "lastName": "Silveira",
+    "cpf": "174.094.882-98",
+    "birthDate": "28-09-2000",
+    "phones": [
+      {
+        "type": "MOBILE",
+        "number": "(21)999990039"
+      }
+    ]
+  }
+
+{
+    "firstName": "Maria",
+    "lastName": "Madalena",
+    "cpf": "174.194.882-68",
+    "birthDate": "22-04-1999",
+    "phones": [
+      {
+        "type": "MOBILE",
+        "number": "(21)999990040"
+      }
+    ]
+  }
+
+{
+    "firstName": "Wando",
+    "lastName": "Silva",
+    "cpf": "194.004.882-98",
+    "birthDate": "28-03-2001",
+    "phones": [
+      {
+        "type": "MOBILE",
+        "number": "(21)999990020"
+      }
+    ]
+  }
+
+{
+    "firstName": "Hanzo",
+    "lastName": "Showen",
+    "cpf": "114.994.882-18",
+    "birthDate": "10-09-2002",
+    "phones": [
+      {
+        "type": "MOBILE",
+        "number": "(21)999990022"
+      }
+    ]
+  }
